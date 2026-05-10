@@ -1,63 +1,107 @@
 # Hi, I'm Prithvi 👋
 
-**Full-Stack Java Developer** | Backend Architecture | Database Design
+**Full-Stack Engineer** | System Design & Optimization | Algorithms & Database Architecture
 
-Welcome to my GitHub! I'm a Computer Science student at the University of Manitoba passionate about building scalable, well-architected applications. I focus on clean code, SOLID principles, and thoughtful system design.
+Computer Science student at the University of Manitoba. I build systems that are correct, efficient, and maintainable. I approach problems with algorithmic rigor and implement solutions with architectural thoughtfulness.
 
 ---
 
-## 🛠 Tech Stack
+## 💪 What I Do
 
-**Backend**
-- Java (Spring Boot, Spring Data JPA)
-- RESTful API Design
-- Dependency Injection & Layered Architecture
+**Design & Build Systems**
+- Full-stack applications from database schema to user interface
+- Layered architectures with clear separation of concerns
+- Production-grade REST APIs with Spring Boot
+- React frontends that consume complex APIs
 
-**Databases**
-- PostgreSQL, MySQL, SQLite
-- SQL Query Optimization
-- Database Design & Normalization
+**Solve Hard Problems**
+- Algorithm design: divide-and-conquer, greedy, dynamic programming, local search
+- Complexity analysis: big-O notation, amortized analysis, cost models
+- Approximation algorithms for NP-hard problems
+- Advanced data structures: AVL trees, union-find, segment trees
 
-**Frontend**
-- React, HTML/CSS/JavaScript
+**Optimize Performance**
+- Database schema design with normalization and indexing
+- SQL query optimization and execution plan analysis
+- Trade-off analysis: memory vs. speed, consistency vs. availability
+- Identifying bottlenecks and optimization opportunities
 
-**Tools & Practices**
-- Git/GitLab, Maven
-- Unit Testing (JUnit, Mockito)
-- API Documentation (Swagger/OpenAPI)
-- Agile/Scrum
+---
+
+## 🛠 Technical Stack
+
+**Languages & Frameworks**
+- Java (Spring Boot, Spring Data JPA, design patterns, dependency injection)
+- SQL (PostgreSQL, MySQL, SQLite, SQL Server) — deep understanding
+- React, JavaScript, HTML/CSS
+- Python (algorithms, data processing)
+
+**Core Skills**
+- System architecture & design
+- Database design & optimization
+- Algorithm analysis & implementation
+- Full-stack development
+- API design (REST, OpenAPI/Swagger)
+- Testing (JUnit, Mockito, React Testing Library)
+
+**Tools**
+- Git, Maven, Docker, Linux
+- Database tools (pgAdmin, query analyzers)
+- API testing (Postman, Swagger UI)
 
 ---
 
 ## 📌 Featured Projects
 
 ### [MyCloset](https://github.com/yourusername/mycloset)
-**A full-stack wardrobe management app with outfit recommendations**
+**Full-stack wardrobe management with intelligent recommendation engine**
 
-A production-ready application showcasing full-stack development, from PostgreSQL schema design to Spring Boot REST APIs to a responsive React frontend. Features include:
-- Digital closet management (clothing items, categorization)
-- Outfit builder and outfit history
-- ML-powered outfit recommendations
-- Clothing recommendations (what to add to your wardrobe)
+Demonstrates complete system design from requirements to deployment:
 
-**Tech:** Java • Spring Boot • PostgreSQL • React • JPA
+- **Architecture:** Layered design (Controller → Service → Repository) with dependency injection, enabling testability and maintainability
+- **Database:** Normalized PostgreSQL schema with strategic indexing for query performance; complex queries with joins and aggregations
+- **Algorithm:** Outfit recommendation engine using greedy selection, color theory compatibility, and frequency analysis
+- **Full-Stack:** Spring Boot REST API + React frontend, complete CRUD operations, user authentication with JWT
 
----
+What I learned: How to structure a project so different team members can work independently; how to optimize queries; how to design APIs that are intuitive to consume.
 
-## 💡 What I'm Interested In
-
-- **Backend Architecture** - Building systems that scale, are maintainable, and follow SOLID principles
-- **Database Design** - Optimizing schemas, queries, and understanding relational modeling
-- **Software Engineering** - Clean code, testing strategies, design patterns
-- **Recommendations & ML** - Intelligent systems that learn from user behavior
+**Tech:** Java • Spring Boot • PostgreSQL • React • JPA • REST API
 
 ---
 
-## 🎓 Currently Learning
+### [Database & Analytics Project](https://github.com/yourusername/football-analytics)
+**Enterprise database with REST API and analytics dashboard**
 
-- Advanced Spring Boot patterns (AOP, security, cloud)
-- PostgreSQL performance tuning
-- Building production-grade full-stack applications
+- **Schema Design:** Normalized relational model handling complex domain (sports statistics, teams, players, matches)
+- **Query Optimization:** ~20 analytical queries optimized for performance; analyzed execution plans and added strategic indexes
+- **API:** Migrated from SQL Server to SQLite; built REST API backend to decouple database from consumers
+- **Frontend:** Reporting dashboard in React showing insights, summaries, and trends
+
+What I learned: How to identify query bottlenecks; how to design schemas that support diverse queries; how to handle database migrations.
+
+**Tech:** PostgreSQL • SQL (Complex queries) • REST API • React
+
+---
+
+### Algorithm Assignments (COMP 3170)
+**Rigorous algorithm design and complexity analysis**
+
+- **Amortized Analysis:** Aggregate, accounting, and potential methods; analyzed non-trivial data structures
+- **Approximation Algorithms:** Designed greedy algorithms for NP-hard problems with worst-case approximation bounds
+- **Data Structures:** AVL tree successor/predecessor proofs; union-find for amortized performance; segment trees
+- **Proof Writing:** Formal correctness proofs and complexity analysis
+
+What this shows: I can think rigorously about algorithms, write formal proofs, and understand why certain solutions are better than others.
+
+---
+
+## 🎓 Key Principles I Follow
+
+✓ **Write code that's easy to understand and change** — clear naming, small methods, comments for complex logic  
+✓ **Design before coding** — think through architecture, data models, and APIs upfront  
+✓ **Understand trade-offs** — performance vs. maintainability, consistency vs. availability, etc.  
+✓ **Test thoroughly** — unit tests for business logic, integration tests for APIs, manual testing for UX  
+✓ **Optimize intentionally** — measure first, optimize based on data, don't premature optimize  
 
 ---
 
@@ -65,8 +109,10 @@ A production-ready application showcasing full-stack development, from PostgreSQ
 
 - **Email:** soni.raj.prithvi@gmail.com
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/prithvi-raj-soni-854125265/?skipRedirect=true)
-- **University:** University of Manitoba, Computer Science
+- - **University:** Computer Science, University of Manitoba
 
 ---
+
+**I'm interested in roles where I can apply algorithmic thinking to real-world problems and grow into system architecture and distributed systems.**
 
 *Last updated: May 2026*
