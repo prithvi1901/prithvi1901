@@ -6,7 +6,7 @@ Computer Science student at the University of Manitoba. I build systems that are
 
 ---
 
-## 💪 What I Do
+## What I Do
 
 **Design & Build Systems**
 - Full-stack applications from database schema to user interface
